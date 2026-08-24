@@ -1,7 +1,4622 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Alternatives to: AutoCAD",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Blender",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 213916896,
+            "language": "C++",
+            "last_commit": "2026-08-24T14:04:50Z",
+            "owner": "blender",
+            "repo": "blender",
+            "stars": 19827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreeCAD",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5736080,
+            "language": "C++",
+            "last_commit": "2026-08-24T07:22:10Z",
+            "owner": "FreeCAD",
+            "repo": "FreeCAD",
+            "stars": 33047
+          }
+        }
+      ],
+      "title": "3D Graphics Software"
+    },
+    {
+      "description": "Alternatives to: Gitbook, ReadMe",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Docusaurus",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94911145,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T20:09:53Z",
+            "owner": "facebook",
+            "repo": "docusaurus",
+            "stars": 66068
+          }
+        }
+      ],
+      "title": "API Documentation"
+    },
+    {
+      "description": "Alternatives to: Apigee",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apache APISIX",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 180481986,
+            "language": "Lua",
+            "last_commit": "2026-08-24T08:34:19Z",
+            "owner": "apache",
+            "repo": "apisix",
+            "stars": 17024
+          }
+        }
+      ],
+      "title": "API Gateway"
+    },
+    {
+      "description": "Alternatives to: Postman",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fusio",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39904377,
+            "language": "PHP",
+            "last_commit": "2026-08-16T07:45:04Z",
+            "owner": "apioo",
+            "repo": "fusio",
+            "stars": 2113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hoppscotch",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 203587744,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:30:15Z",
+            "owner": "hoppscotch",
+            "repo": "hoppscotch",
+            "stars": 80089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Insomnia",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56899284,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:20:54Z",
+            "owner": "Kong",
+            "repo": "insomnia",
+            "stars": 39959
+          }
+        }
+      ],
+      "title": "API Platform"
+    },
+    {
+      "description": "Alternatives to: Xero",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Akaunting",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95011974,
+            "language": "PHP",
+            "last_commit": "2026-08-22T15:09:05Z",
+            "owner": "akaunting",
+            "repo": "akaunting",
+            "stars": 10088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crater",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222873550,
+            "language": "PHP",
+            "last_commit": "2024-08-10T09:32:07Z",
+            "owner": "crater-invoice-inc",
+            "repo": "crater",
+            "stars": 8342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InvoiceNinja",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14716368,
+            "language": "PHP",
+            "last_commit": "2026-08-20T01:27:07Z",
+            "owner": "invoiceninja",
+            "repo": "invoiceninja",
+            "stars": 10022
+          }
+        }
+      ],
+      "title": "Accounting"
+    },
+    {
+      "description": "Alternatives to: Auth0, Firebase Authentication, Okta",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Authentik",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 230885748,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:33:01Z",
+            "owner": "goauthentik",
+            "repo": "authentik",
+            "stars": 25123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BoxyHQ",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 395891383,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T21:17:28Z",
+            "owner": "ory",
+            "repo": "polis",
+            "stars": 2260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cerbos",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 350005438,
+            "language": "Go",
+            "last_commit": "2026-08-24T11:07:57Z",
+            "owner": "cerbos",
+            "repo": "cerbos",
+            "stars": 4552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FusionAuth",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147708097,
+            "language": "Dockerfile",
+            "last_commit": "2026-08-18T17:30:23Z",
+            "owner": "FusionAuth",
+            "repo": "fusionauth-containers",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hanko",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 469828818,
+            "language": "Go",
+            "last_commit": "2026-08-19T19:50:38Z",
+            "owner": "teamhanko",
+            "repo": "hanko",
+            "stars": 9011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keycloak",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11125589,
+            "language": "Java",
+            "last_commit": "2026-08-24T14:41:15Z",
+            "owner": "keycloak",
+            "repo": "keycloak",
+            "stars": 36376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OPAL (Permit.io)",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 338791379,
+            "language": "Python",
+            "last_commit": "2026-08-24T10:02:05Z",
+            "owner": "permitio",
+            "repo": "opal",
+            "stars": 5503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ory",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 135321861,
+            "language": "Go",
+            "last_commit": "2026-07-29T09:30:37Z",
+            "owner": "ory",
+            "repo": "kratos",
+            "stars": 13846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oso",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261283923,
+            "language": "Rust",
+            "last_commit": "2025-02-26T16:59:39Z",
+            "owner": "osohq",
+            "repo": "oso",
+            "stars": 3492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supertokens",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 231921809,
+            "language": "Java",
+            "last_commit": "2026-08-24T12:48:20Z",
+            "owner": "supertokens",
+            "repo": "supertokens-core",
+            "stars": 15277
+          }
+        }
+      ],
+      "title": "Auth & SSO"
+    },
+    {
+      "description": "Alternatives to: Firebase",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Amplication",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 262862475,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T13:46:55Z",
+            "owner": "amplication",
+            "repo": "amplication",
+            "stars": 16012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 180190854,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:39:19Z",
+            "owner": "appwrite",
+            "repo": "appwrite",
+            "stars": 57114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kuzzle",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41084349,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T09:08:16Z",
+            "owner": "kuzzleio",
+            "repo": "kuzzle",
+            "stars": 1673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nhost",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 337414495,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:22:14Z",
+            "owner": "nhost",
+            "repo": "nhost",
+            "stars": 9280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Otomi",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200118806,
+            "language": "Go Template",
+            "last_commit": "2026-08-24T14:20:31Z",
+            "owner": "linode",
+            "repo": "apl-core",
+            "stars": 2258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supabase",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 214587193,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:34:53Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 108348
+          }
+        }
+      ],
+      "title": "Backend as a Service (BaaS)"
+    },
+    {
+      "description": "Alternatives to: DataStudio, Mode Analytics, PowerBI, Tableau",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Metabase",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30203935,
+            "language": "Clojure",
+            "last_commit": "2026-08-24T14:41:26Z",
+            "owner": "metabase",
+            "repo": "metabase",
+            "stars": 48906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Preset",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39464018,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:31:14Z",
+            "owner": "apache",
+            "repo": "superset",
+            "stars": 74445
+          }
+        }
+      ],
+      "title": "Business Intelligence"
+    },
+    {
+      "description": "Alternatives to: Contentful",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Builder",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168429268,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T07:37:21Z",
+            "owner": "BuilderIO",
+            "repo": "builder",
+            "stars": 8807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Concrete",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19040482,
+            "language": "PHP",
+            "last_commit": "2026-08-21T02:36:33Z",
+            "owner": "concretecms",
+            "repo": "concretecms",
+            "stars": 851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Directus",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7122594,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:17:22Z",
+            "owner": "directus",
+            "repo": "directus",
+            "stars": 37493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghost",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9852918,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T14:35:10Z",
+            "owner": "TryGhost",
+            "repo": "Ghost",
+            "stars": 55051
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LavaLite",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18992087,
+            "language": "PHP",
+            "last_commit": "2023-09-28T16:17:55Z",
+            "owner": "LavaLite",
+            "repo": "cms",
+            "stars": 2892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netlify CMS",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29514104,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T00:18:38Z",
+            "owner": "decaporg",
+            "repo": "decap-cms",
+            "stars": 19314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plasmic",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 335402819,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:36:10Z",
+            "owner": "plasmicapp",
+            "repo": "plasmic",
+            "stars": 6969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strapi",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43441403,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:40:45Z",
+            "owner": "strapi",
+            "repo": "strapi",
+            "stars": 73010
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sulu",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13678015,
+            "language": "PHP",
+            "last_commit": "2026-08-20T17:59:54Z",
+            "owner": "sulu",
+            "repo": "sulu",
+            "stars": 1349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tina",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198488459,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T07:21:47Z",
+            "owner": "tinacms",
+            "repo": "tinacms",
+            "stars": 13750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Umbraco",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10601208,
+            "language": "C#",
+            "last_commit": "2026-08-24T13:56:02Z",
+            "owner": "umbraco",
+            "repo": "Umbraco-CMS",
+            "stars": 5229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webiny",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 116817549,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:48:10Z",
+            "owner": "webiny",
+            "repo": "webiny-js",
+            "stars": 8032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Winter",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 344332509,
+            "language": "PHP",
+            "last_commit": "2026-08-24T06:42:14Z",
+            "owner": "wintercms",
+            "repo": "winter",
+            "stars": 1513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WordPress",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2889328,
+            "language": "PHP",
+            "last_commit": "2026-08-24T08:00:12Z",
+            "owner": "WordPress",
+            "repo": "WordPress",
+            "stars": 21363
+          }
+        }
+      ],
+      "title": "CMS"
+    },
+    {
+      "description": "Alternatives to: Google Calendar",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FullCalendar",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 381979,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T22:18:01Z",
+            "owner": "fullcalendar",
+            "repo": "fullcalendar",
+            "stars": 20616
+          }
+        }
+      ],
+      "title": "Calendar"
+    },
+    {
+      "description": "Alternatives to: AWS Config, AWS GuardDuty, GCP Cloud Asset Inventory",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CloudQuery",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313853293,
+            "language": "Go",
+            "last_commit": "2026-08-24T06:46:32Z",
+            "owner": "cloudquery",
+            "repo": "cloudquery",
+            "stars": 6492
+          }
+        }
+      ],
+      "title": "Cloud Asset Inventory"
+    },
+    {
+      "description": "Alternatives to: Snowflake",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Databend",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 302827809,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:05:49Z",
+            "owner": "databendlabs",
+            "repo": "databend",
+            "stars": 9422
+          }
+        }
+      ],
+      "title": "Cloud Data Warehouse"
+    },
+    {
+      "description": "Alternatives to: Amazon S3",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ceph",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2310495,
+            "language": "C++",
+            "last_commit": "2026-08-24T14:31:28Z",
+            "owner": "ceph",
+            "repo": "ceph",
+            "stars": 16960
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minio",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 29261473,
+            "language": "Go",
+            "last_commit": "2026-04-24T17:54:39Z",
+            "owner": "minio",
+            "repo": "minio",
+            "stars": 61382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Storj",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128089774,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:20:20Z",
+            "owner": "storj",
+            "repo": "storj",
+            "stars": 3277
+          }
+        }
+      ],
+      "title": "Cloud Storage"
+    },
+    {
+      "description": "Alternatives to: BitBucket, GitHub",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitLab",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2500088,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T12:09:13Z",
+            "owner": "gitlabhq",
+            "repo": "gitlabhq",
+            "stars": 24535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gitea",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72495579,
+            "language": "Go",
+            "last_commit": "2026-08-24T11:37:20Z",
+            "owner": "go-gitea",
+            "repo": "gitea",
+            "stars": 57570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gogs",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16752620,
+            "language": "Go",
+            "last_commit": "2026-08-22T21:32:23Z",
+            "owner": "gogs",
+            "repo": "gogs",
+            "stars": 47759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OneDev",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156317154,
+            "language": "Java",
+            "last_commit": "2026-08-23T00:07:46Z",
+            "owner": "theonedev",
+            "repo": "onedev",
+            "stars": 15174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pagure",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17753500,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:46:09Z",
+            "owner": "Pagure",
+            "repo": "pagure",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sturdy",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 444809902,
+            "language": "Go",
+            "last_commit": "2023-06-21T07:08:23Z",
+            "owner": "sturdy-dev",
+            "repo": "sturdy",
+            "stars": 549
+          }
+        }
+      ],
+      "title": "Code collaboration tools"
+    },
+    {
+      "description": "Alternatives to: Twilio",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fonoster",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 120149974,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T03:15:37Z",
+            "owner": "fonoster",
+            "repo": "fonoster",
+            "stars": 8081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plivo",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1766718,
+            "language": "Python",
+            "last_commit": "2017-04-04T18:34:18Z",
+            "owner": "plivo",
+            "repo": "plivoframework",
+            "stars": 431
+          }
+        }
+      ],
+      "title": "Communication"
+    },
+    {
+      "description": "Alternatives to: Segment",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jitsu",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 285012857,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:39:08Z",
+            "owner": "jitsucom",
+            "repo": "jitsu",
+            "stars": 5041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rudderstack",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197743848,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:08:03Z",
+            "owner": "rudderlabs",
+            "repo": "rudder-server",
+            "stars": 4477
+          }
+        }
+      ],
+      "title": "Customer Data Platform"
+    },
+    {
+      "description": "Alternatives to: Intercom, Zendesk",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chaskiq",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 135250854,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T17:20:11Z",
+            "owner": "chaskiq",
+            "repo": "chaskiq",
+            "stars": 3562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chatwoot",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202291859,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T14:20:21Z",
+            "owner": "chatwoot",
+            "repo": "chatwoot",
+            "stars": 36149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Papercups",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279895213,
+            "language": "Elixir",
+            "last_commit": "2024-02-15T05:21:47Z",
+            "owner": "papercups-io",
+            "repo": "papercups",
+            "stars": 6099
+          }
+        }
+      ],
+      "title": "Customer Engagement"
+    },
+    {
+      "description": "Alternatives to: AWS Config, AWS GuardDuty, GCP Cloud Asset Inventory, GreyNoise, OpenVPN, OpenVPN Access Server, Tailscale, Tenable Nessus",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CloudQuery",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313853293,
+            "language": "Go",
+            "last_commit": "2026-08-24T06:46:32Z",
+            "owner": "cloudquery",
+            "repo": "cloudquery",
+            "stars": 6492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrowdSec",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 264154402,
+            "language": "Go",
+            "last_commit": "2026-08-24T12:22:42Z",
+            "owner": "crowdsecurity",
+            "repo": "crowdsec",
+            "stars": 14635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firezone",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257787813,
+            "language": "Elixir",
+            "last_commit": "2026-08-24T14:26:32Z",
+            "owner": "firezone",
+            "repo": "firezone",
+            "stars": 9039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gravitl",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 351486934,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:00:27Z",
+            "owner": "gravitl",
+            "repo": "netmaker",
+            "stars": 11761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nuclei",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 252813491,
+            "language": "Go",
+            "last_commit": "2026-08-24T08:59:31Z",
+            "owner": "projectdiscovery",
+            "repo": "nuclei",
+            "stars": 30762
+          }
+        }
+      ],
+      "title": "Cybersecurity"
+    },
+    {
+      "description": "Alternatives to: Amazon Aurora, Firebase Database, Google Cloud Spanner",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PingCAP",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41986369,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:35:14Z",
+            "owner": "pingcap",
+            "repo": "tidb",
+            "stars": 40464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yugabyte",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105944401,
+            "language": "C",
+            "last_commit": "2026-08-24T13:18:11Z",
+            "owner": "yugabyte",
+            "repo": "yugabyte-db",
+            "stars": 10496
+          }
+        }
+      ],
+      "title": "Database as a Service (DBaaS)"
+    },
+    {
+      "description": "Alternatives to: Figma",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Modulz",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 273499522,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T16:39:51Z",
+            "owner": "radix-ui",
+            "repo": "primitives",
+            "stars": 19202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Penpot",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48769241,
+            "language": "Clojure",
+            "last_commit": "2026-08-24T13:57:01Z",
+            "owner": "penpot",
+            "repo": "penpot",
+            "stars": 59116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quant UX",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182806722,
+            "language": "Vue",
+            "last_commit": "2026-08-23T14:18:48Z",
+            "owner": "KlausSchaefers",
+            "repo": "quant-ux",
+            "stars": 2689
+          }
+        }
+      ],
+      "title": "Design"
+    },
+    {
+      "description": "Alternatives to: Google Chrome",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Brave Browser",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110178895,
+            "language": null,
+            "last_commit": "2026-08-24T12:34:07Z",
+            "owner": "brave",
+            "repo": "brave-browser",
+            "stars": 23430
+          }
+        }
+      ],
+      "title": "Desktop Browser"
+    },
+    {
+      "description": "Alternatives to: GitHub Codespaces",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Daytona",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 753490180,
+            "language": null,
+            "last_commit": "2026-07-24T07:12:07Z",
+            "owner": "daytonaio",
+            "repo": "daytona",
+            "stars": 71891
+          }
+        }
+      ],
+      "title": "Dev Environment Management"
+    },
+    {
+      "description": "Alternatives to: Google Docs",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Collabora Online",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 300155217,
+            "language": "Shell",
+            "last_commit": "2026-08-18T13:45:37Z",
+            "owner": "CollaboraOnline",
+            "repo": "online",
+            "stars": 3324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CryptPad",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26022284,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T12:47:13Z",
+            "owner": "cryptpad",
+            "repo": "cryptpad",
+            "stars": 7859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EtherPad",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1529160,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:38:13Z",
+            "owner": "ether",
+            "repo": "etherpad",
+            "stars": 18503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HedgeDoc",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 177987738,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:26:34Z",
+            "owner": "hedgedoc",
+            "repo": "hedgedoc",
+            "stars": 7377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OnlyOffice",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21525321,
+            "language": "Shell",
+            "last_commit": "2026-07-22T09:43:52Z",
+            "owner": "ONLYOFFICE",
+            "repo": "DocumentServer",
+            "stars": 6848
+          }
+        }
+      ],
+      "title": "Document editor"
+    },
+    {
+      "description": "Alternatives to: BigCommerce, Ecwid, Shogun, Shopify",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bagisto",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 148129143,
+            "language": "PHP",
+            "last_commit": "2026-08-24T11:44:31Z",
+            "owner": "bagisto",
+            "repo": "bagisto",
+            "stars": 27987
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mailchimp Open Commerce",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12926963,
+            "language": "JavaScript",
+            "last_commit": "2026-03-01T22:35:00Z",
+            "owner": "reactioncommerce",
+            "repo": "reaction",
+            "stars": 12400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Medusa",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 234739976,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:20:45Z",
+            "owner": "medusajs",
+            "repo": "medusa",
+            "stars": 35978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrestaShop",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6763587,
+            "language": "PHP",
+            "last_commit": "2026-08-24T14:36:13Z",
+            "owner": "PrestaShop",
+            "repo": "PrestaShop",
+            "stars": 9201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Saleor",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8162715,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:41:36Z",
+            "owner": "saleor",
+            "repo": "saleor",
+            "stars": 23262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shuup",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36803364,
+            "language": "Python",
+            "last_commit": "2024-03-13T23:45:42Z",
+            "owner": "shuup",
+            "repo": "shuup",
+            "stars": 2392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sylius",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2717549,
+            "language": "PHP",
+            "last_commit": "2026-08-24T02:29:05Z",
+            "owner": "Sylius",
+            "repo": "Sylius",
+            "stars": 8513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vendure",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136938012,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:22:37Z",
+            "owner": "vendurehq",
+            "repo": "vendure",
+            "stars": 8371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue Storefront",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100346588,
+            "language": null,
+            "last_commit": "2026-06-09T12:03:34Z",
+            "owner": "vuestorefront",
+            "repo": "vue-storefront",
+            "stars": 10943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WooCommerce",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2179920,
+            "language": "PHP",
+            "last_commit": "2026-08-24T14:36:25Z",
+            "owner": "woocommerce",
+            "repo": "woocommerce",
+            "stars": 10473
+          }
+        }
+      ],
+      "title": "E-commerce"
+    },
+    {
+      "description": "Alternatives to: Fivetran",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Airbyte",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 283046497,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:36:47Z",
+            "owner": "airbytehq",
+            "repo": "airbyte",
+            "stars": 21947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dagster",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131619646,
+            "language": "Python",
+            "last_commit": "2026-08-22T16:50:43Z",
+            "owner": "dagster-io",
+            "repo": "dagster",
+            "stars": 16058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kestra",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 204164353,
+            "language": "Java",
+            "last_commit": "2026-08-24T14:34:18Z",
+            "owner": "kestra-io",
+            "repo": "kestra",
+            "stars": 27905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orchest",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 265911693,
+            "language": "TypeScript",
+            "last_commit": "2023-06-06T09:48:26Z",
+            "owner": "orchest",
+            "repo": "orchest",
+            "stars": 4131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prefect",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139199684,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:16:44Z",
+            "owner": "PrefectHQ",
+            "repo": "prefect",
+            "stars": 23666
+          }
+        }
+      ],
+      "title": "ELT / ETL"
+    },
+    {
+      "description": "Alternatives to: HubSpot, Microsoft Dynamics, Oracle Fusion ERP Cloud, SAP, Salesforce",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DoliCloud",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1957456,
+            "language": "PHP",
+            "last_commit": "2026-08-24T12:09:31Z",
+            "owner": "Dolibarr",
+            "repo": "dolibarr",
+            "stars": 7534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Erpnext",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1864233,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:03:33Z",
+            "owner": "frappe",
+            "repo": "erpnext",
+            "stars": 38448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Odoo",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19745004,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:30:28Z",
+            "owner": "odoo",
+            "repo": "odoo",
+            "stars": 53910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuiteCRM",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13044600,
+            "language": "PHP",
+            "last_commit": "2026-07-31T13:37:50Z",
+            "owner": "SuiteCRM",
+            "repo": "SuiteCRM",
+            "stars": 5688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "erxes",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73453488,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:38:17Z",
+            "owner": "erxes",
+            "repo": "erxes",
+            "stars": 4069
+          }
+        }
+      ],
+      "title": "ERP / CRM"
+    },
+    {
+      "description": "Alternatives to: Mailchimp, Sendinblue",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Keila",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 326066599,
+            "language": "Elixir",
+            "last_commit": "2026-08-18T23:14:50Z",
+            "owner": "pentacent",
+            "repo": "keila",
+            "stars": 2191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mailtrain",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55407965,
+            "language": "JavaScript",
+            "last_commit": "2025-10-05T17:53:53Z",
+            "owner": "Mailtrain-org",
+            "repo": "mailtrain",
+            "stars": 5747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mautic",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12204147,
+            "language": "PHP",
+            "last_commit": "2026-08-24T14:18:50Z",
+            "owner": "mautic",
+            "repo": "mautic",
+            "stars": 10384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "listmonk",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193833307,
+            "language": "Go",
+            "last_commit": "2026-08-22T08:24:51Z",
+            "owner": "knadh",
+            "repo": "listmonk",
+            "stars": 23093
+          }
+        }
+      ],
+      "title": "Email marketing"
+    },
+    {
+      "description": "Alternatives to: AWS Kendra, Algolia, Elastic Cloud, Google Vertex AI, QnA Maker",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AppBase",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82074611,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T10:01:44Z",
+            "owner": "appbaseio",
+            "repo": "reactivesearch",
+            "stars": 4923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elastic Search",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 507775,
+            "language": "Java",
+            "last_commit": "2026-08-24T14:40:33Z",
+            "owner": "elastic",
+            "repo": "elasticsearch",
+            "stars": 77856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jina.ai",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240315046,
+            "language": "Python",
+            "last_commit": "2025-03-24T13:59:54Z",
+            "owner": "jina-ai",
+            "repo": "serve",
+            "stars": 21863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meilisearch",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 130688011,
+            "language": "Rust",
+            "last_commit": "2026-08-14T09:38:01Z",
+            "owner": "meilisearch",
+            "repo": "meilisearch",
+            "stars": 59073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qdrant",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268163609,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:36:00Z",
+            "owner": "qdrant",
+            "repo": "qdrant",
+            "stars": 34157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeMI's Weaviate",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55072677,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:18:38Z",
+            "owner": "weaviate",
+            "repo": "weaviate",
+            "stars": 16749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeSense",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79317191,
+            "language": "C++",
+            "last_commit": "2026-08-18T10:20:20Z",
+            "owner": "typesense",
+            "repo": "typesense",
+            "stars": 26478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zilliz's Milvus",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208728772,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:35:22Z",
+            "owner": "milvus-io",
+            "repo": "milvus",
+            "stars": 45769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zinc Labs's Zinc",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 434218673,
+            "language": "Go",
+            "last_commit": "2026-06-09T05:30:16Z",
+            "owner": "zincsearch",
+            "repo": "zincsearch",
+            "stars": 17890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deepset",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221654678,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:27:08Z",
+            "owner": "deepset-ai",
+            "repo": "haystack",
+            "stars": 26305
+          }
+        }
+      ],
+      "title": "Enterprise Search"
+    },
+    {
+      "description": "Alternatives to: LaunchDarkly",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FlagSmith",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136163130,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:28:26Z",
+            "owner": "Flagsmith",
+            "repo": "flagsmith",
+            "stars": 6526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GrowthBook",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 365373172,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:37:16Z",
+            "owner": "growthbook",
+            "repo": "growthbook",
+            "stars": 8155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unleash",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24594933,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:05:39Z",
+            "owner": "Unleash",
+            "repo": "unleash",
+            "stars": 13751
+          }
+        }
+      ],
+      "title": "Feature flag and toggle management"
+    },
+    {
+      "description": "Alternatives to: Dropbox, Google Drive",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Filestash",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94173064,
+            "language": "Go",
+            "last_commit": "2026-08-21T16:34:36Z",
+            "owner": "mickael-kerjean",
+            "repo": "filestash",
+            "stars": 14539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nextcloud",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60243197,
+            "language": "PHP",
+            "last_commit": "2026-08-24T14:38:05Z",
+            "owner": "nextcloud",
+            "repo": "server",
+            "stars": 36562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Owncloud",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5550552,
+            "language": "PHP",
+            "last_commit": "2026-08-24T03:38:45Z",
+            "owner": "owncloud",
+            "repo": "core",
+            "stars": 8830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seafile",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4999959,
+            "language": "C",
+            "last_commit": "2026-08-08T02:47:29Z",
+            "owner": "haiwen",
+            "repo": "seafile",
+            "stars": 15165
+          }
+        }
+      ],
+      "title": "File Hosting"
+    },
+    {
+      "description": "Alternatives to: Circle, Tribe",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Discourse",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7569578,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T14:37:32Z",
+            "owner": "discourse",
+            "repo": "discourse",
+            "stars": 47718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flarum",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28628034,
+            "language": "PHP",
+            "last_commit": "2026-08-23T20:44:37Z",
+            "owner": "flarum",
+            "repo": "flarum",
+            "stars": 16380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forem",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73648678,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T13:38:23Z",
+            "owner": "forem",
+            "repo": "forem",
+            "stars": 22770
+          }
+        }
+      ],
+      "title": "Forum Software"
+    },
+    {
+      "description": "Alternatives to: Unity, Unreal Engine",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Godot",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15634981,
+            "language": "C++",
+            "last_commit": "2026-08-21T21:08:08Z",
+            "owner": "godotengine",
+            "repo": "godot",
+            "stars": 116080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heaps",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5947834,
+            "language": "Haxe",
+            "last_commit": "2026-08-24T10:28:18Z",
+            "owner": "HeapsIO",
+            "repo": "heaps",
+            "stars": 3499
+          }
+        }
+      ],
+      "title": "Game Engine"
+    },
+    {
+      "description": "Alternatives to: Amazon Neptune, TigerGraph",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ArangoDB",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2649214,
+            "language": "C++",
+            "last_commit": "2026-08-24T14:21:25Z",
+            "owner": "arangodb",
+            "repo": "arangodb",
+            "stars": 14261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dgraph",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41349039,
+            "language": "Go",
+            "last_commit": "2026-08-23T18:48:11Z",
+            "owner": "dgraph-io",
+            "repo": "dgraph",
+            "stars": 21779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memgraph",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 297302063,
+            "language": "C++",
+            "last_commit": "2026-08-24T14:35:01Z",
+            "owner": "memgraph",
+            "repo": "memgraph",
+            "stars": 4356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neo4j",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6650539,
+            "language": "Java",
+            "last_commit": "2026-08-07T16:25:48Z",
+            "owner": "neo4j",
+            "repo": "neo4j",
+            "stars": 17121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TerminusDB",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198466472,
+            "language": "Prolog",
+            "last_commit": "2026-08-10T14:54:19Z",
+            "owner": "terminusdb",
+            "repo": "terminusdb",
+            "stars": 3392
+          }
+        }
+      ],
+      "title": "Graph database"
+    },
+    {
+      "description": "Alternatives to: Zendesk",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Helpy",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33225130,
+            "language": "Ruby",
+            "last_commit": "2023-03-08T21:42:10Z",
+            "owner": "helpyio",
+            "repo": "helpy",
+            "stars": 2472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peppermint",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 310426656,
+            "language": "TypeScript",
+            "last_commit": "2025-09-21T10:59:09Z",
+            "owner": "Peppermint-Lab",
+            "repo": "peppermint",
+            "stars": 3159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UVdesk",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155852027,
+            "language": "CSS",
+            "last_commit": "2025-10-01T07:16:24Z",
+            "owner": "uvdesk",
+            "repo": "community-skeleton",
+            "stars": 19516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zammad",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3898922,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T13:30:59Z",
+            "owner": "zammad",
+            "repo": "zammad",
+            "stars": 5863
+          }
+        }
+      ],
+      "title": "Helpdesk Solution"
+    },
+    {
+      "description": "Alternatives to: Retool",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AppSmith",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 275993885,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T10:59:41Z",
+            "owner": "appsmithorg",
+            "repo": "appsmith",
+            "stars": 40733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Budibase",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190729906,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:39:14Z",
+            "owner": "Budibase",
+            "repo": "budibase",
+            "stars": 28243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lowdefy",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 300252678,
+            "language": "JavaScript",
+            "last_commit": "2026-08-22T16:43:10Z",
+            "owner": "lowdefy",
+            "repo": "lowdefy",
+            "stars": 3000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tooljet",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352933140,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T14:08:10Z",
+            "owner": "ToolJet",
+            "repo": "ToolJet",
+            "stars": 40746
+          }
+        }
+      ],
+      "title": "Internal Tools"
+    },
+    {
+      "description": "Alternatives to: Trello",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Focalboard",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 301793434,
+            "language": "TypeScript",
+            "last_commit": "2026-05-18T16:05:00Z",
+            "owner": "mattermost-community",
+            "repo": "focalboard",
+            "stars": 26426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kanboard",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16238673,
+            "language": "PHP",
+            "last_commit": "2026-08-23T23:03:55Z",
+            "owner": "kanboard",
+            "repo": "kanboard",
+            "stars": 9819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Restyaboard",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36856044,
+            "language": "JavaScript",
+            "last_commit": "2023-10-26T05:50:00Z",
+            "owner": "RestyaPlatform",
+            "repo": "board",
+            "stars": 2087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wekan",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16089035,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T13:23:50Z",
+            "owner": "wekan",
+            "repo": "wekan",
+            "stars": 21059
+          }
+        }
+      ],
+      "title": "Kanban"
+    },
+    {
+      "description": "Alternatives to: Papertrail, Splunk",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GoAccess",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11397939,
+            "language": "C",
+            "last_commit": "2026-08-20T00:08:16Z",
+            "owner": "allinurl",
+            "repo": "goaccess",
+            "stars": 20835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graylog",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 671825,
+            "language": "Java",
+            "last_commit": "2026-08-24T14:31:39Z",
+            "owner": "Graylog2",
+            "repo": "graylog2-server",
+            "stars": 8113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quickwit",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357707809,
+            "language": "Rust",
+            "last_commit": "2026-08-21T20:26:17Z",
+            "owner": "quickwit-oss",
+            "repo": "quickwit",
+            "stars": 11538
+          }
+        }
+      ],
+      "title": "Log Management"
+    },
+    {
+      "description": "Alternatives to: AWS SageMaker, BigQuery ML, Google Vertex AI",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cortex",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 167304464,
+            "language": "Go",
+            "last_commit": "2024-06-12T19:34:23Z",
+            "owner": "cortexlabs",
+            "repo": "cortex",
+            "stars": 8011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MindsDB",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143328315,
+            "language": "Makefile",
+            "last_commit": "2026-08-21T23:50:38Z",
+            "owner": "mindsdb",
+            "repo": "mindshub",
+            "stars": 39640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ploomber",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 235190220,
+            "language": "Python",
+            "last_commit": "2025-05-29T22:02:03Z",
+            "owner": "ploomber",
+            "repo": "ploomber",
+            "stars": 3622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seldon",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114898943,
+            "language": "Go",
+            "last_commit": "2026-03-23T11:39:54Z",
+            "owner": "SeldonIO",
+            "repo": "seldon-core",
+            "stars": 4778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zilliz's Towhee",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 385532537,
+            "language": "Python",
+            "last_commit": "2024-10-18T00:01:12Z",
+            "owner": "towhee-io",
+            "repo": "towhee",
+            "stars": 3454
+          }
+        }
+      ],
+      "title": "ML Ops"
+    },
+    {
+      "description": "Alternatives to: Emby, Plex",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jellyfin",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161012019,
+            "language": "C#",
+            "last_commit": "2026-08-23T21:54:37Z",
+            "owner": "jellyfin",
+            "repo": "jellyfin",
+            "stars": 56120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kodi",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1217614,
+            "language": "C++",
+            "last_commit": "2026-08-24T06:22:46Z",
+            "owner": "xbmc",
+            "repo": "xbmc",
+            "stars": 21129
+          }
+        }
+      ],
+      "title": "Media System"
+    },
+    {
+      "description": "Alternatives to: Discord, Microsoft Teams, Slack",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Element",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39487546,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:36:48Z",
+            "owner": "element-hq",
+            "repo": "element-web",
+            "stars": 13407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fosscord",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 333481559,
+            "language": null,
+            "last_commit": "2026-04-09T19:05:39Z",
+            "owner": "spacebarchat",
+            "repo": "spacebarchat",
+            "stars": 6710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mattermost",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37448451,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:37:53Z",
+            "owner": "mattermost",
+            "repo": "mattermost",
+            "stars": 38889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revolt",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 393402056,
+            "language": null,
+            "last_commit": "2026-02-16T02:57:29Z",
+            "owner": "stoatchat",
+            "repo": "discussions",
+            "stars": 2323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rocket.chat",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35866694,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:36:07Z",
+            "owner": "RocketChat",
+            "repo": "Rocket.Chat",
+            "stars": 46026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twake",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271994210,
+            "language": "TypeScript",
+            "last_commit": "2026-02-11T03:50:56Z",
+            "owner": "linagora",
+            "repo": "Twake",
+            "stars": 1923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wire",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54118841,
+            "language": null,
+            "last_commit": "2026-01-05T16:53:28Z",
+            "owner": "wireapp",
+            "repo": "wire",
+            "stars": 2543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zulip",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43160685,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:43:24Z",
+            "owner": "zulip",
+            "repo": "zulip",
+            "stars": 25764
+          }
+        }
+      ],
+      "title": "Messaging"
+    },
+    {
+      "description": "Alternatives to: Looker",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cube.js",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 149026292,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:25:18Z",
+            "owner": "cube-js",
+            "repo": "cube",
+            "stars": 20686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LightDash",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 349372179,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:35:22Z",
+            "owner": "lightdash",
+            "repo": "lightdash",
+            "stars": 6075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLCraft",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378228317,
+            "language": "JavaScript",
+            "last_commit": "2025-02-07T23:14:35Z",
+            "owner": "synmetrix",
+            "repo": "synmetrix",
+            "stars": 623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetriQL",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 370169788,
+            "language": "Kotlin",
+            "last_commit": "2023-03-29T22:11:05Z",
+            "owner": "metriql",
+            "repo": "metriql",
+            "stars": 331
+          }
+        }
+      ],
+      "title": "Metrics store"
+    },
+    {
+      "description": "Alternatives to: Apple iOS",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LineageOS",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75646583,
+            "language": null,
+            "last_commit": "2026-08-21T23:23:26Z",
+            "owner": "LineageOS",
+            "repo": "android",
+            "stars": 4632
+          }
+        }
+      ],
+      "title": "Mobile operating system"
+    },
+    {
+      "description": "Alternatives to: NPM",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Verdaccio",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56333861,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:47:50Z",
+            "owner": "verdaccio",
+            "repo": "verdaccio",
+            "stars": 17837
+          }
+        }
+      ],
+      "title": "NPM registry"
+    },
+    {
+      "description": "Alternatives to: AirTable",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NocoDB",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108761645,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:59:39Z",
+            "owner": "nocodb",
+            "repo": "nocodb",
+            "stars": 64703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rowy",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206509491,
+            "language": "TypeScript",
+            "last_commit": "2024-11-23T19:46:34Z",
+            "owner": "buildship-ai",
+            "repo": "rowy",
+            "stars": 6835
+          }
+        }
+      ],
+      "title": "No-code database"
+    },
+    {
+      "description": "Alternatives to: Evernote, Notion, Onenote, Roam Research",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AppFlowy",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 377496562,
+            "language": "Dart",
+            "last_commit": "2026-08-11T13:01:19Z",
+            "owner": "AppFlowy-IO",
+            "repo": "AppFlowy",
+            "stars": 75908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Athens Research",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 251469970,
+            "language": "Clojure",
+            "last_commit": "2023-02-03T12:32:15Z",
+            "owner": "athensresearch",
+            "repo": "athens",
+            "stars": 6300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bangle.io",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 323793116,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T20:09:32Z",
+            "owner": "bangle-io",
+            "repo": "bangle-io",
+            "stars": 1229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boost Note",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 74213528,
+            "language": "TypeScript",
+            "last_commit": "2026-03-17T06:23:53Z",
+            "owner": "BoostIO",
+            "repo": "BoostNote-App",
+            "stars": 4049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dendron",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 274724694,
+            "language": "TypeScript",
+            "last_commit": "2025-11-13T05:31:19Z",
+            "owner": "dendronhq",
+            "repo": "dendron",
+            "stars": 7463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitNoter",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 468643443,
+            "language": "TypeScript",
+            "last_commit": "2022-10-01T08:12:00Z",
+            "owner": "batnoter",
+            "repo": "batnoter",
+            "stars": 2421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joplin",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79162682,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:25:58Z",
+            "owner": "laurent22",
+            "repo": "joplin",
+            "stars": 56081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Logseq",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 266231149,
+            "language": "Clojure",
+            "last_commit": "2026-08-24T14:17:43Z",
+            "owner": "logseq",
+            "repo": "logseq",
+            "stars": 44591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notabase",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 337828273,
+            "language": "TypeScript",
+            "last_commit": "2026-07-17T17:01:40Z",
+            "owner": "churichard",
+            "repo": "notabase",
+            "stars": 911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Outline",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59435364,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:21:39Z",
+            "owner": "outline",
+            "repo": "outline",
+            "stars": 40309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trilium.cc",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92111509,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:29:17Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37573
+          }
+        }
+      ],
+      "title": "Notetaking"
+    },
+    {
+      "description": "Alternatives to: AWS Lookout, Anodot, DataDog, NewRelic, Outlier, Sisu Data, LangSmith",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chaos Genius",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 371296634,
+            "language": "Python",
+            "last_commit": "2024-09-12T07:46:44Z",
+            "owner": "chaos-genius",
+            "repo": "chaos_genius",
+            "stars": 778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grafana",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15111821,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:29:14Z",
+            "owner": "grafana",
+            "repo": "grafana",
+            "stars": 76386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helicone",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 595832198,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T16:42:14Z",
+            "owner": "Helicone",
+            "repo": "helicone",
+            "stars": 6097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netdata",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10744183,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:50:26Z",
+            "owner": "netdata",
+            "repo": "netdata",
+            "stars": 80276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Promotheus",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6838921,
+            "language": "Go",
+            "last_commit": "2026-08-24T12:48:09Z",
+            "owner": "prometheus",
+            "repo": "prometheus",
+            "stars": 65798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentry",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 873328,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:40:56Z",
+            "owner": "getsentry",
+            "repo": "sentry",
+            "stars": 44609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SigNoz",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 326404870,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:05:46Z",
+            "owner": "SigNoz",
+            "repo": "signoz",
+            "stars": 31929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uptrace",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 440841550,
+            "language": "Go",
+            "last_commit": "2026-08-13T14:47:22Z",
+            "owner": "uptrace",
+            "repo": "uptrace",
+            "stars": 4268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VictoriaMetrics",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150954997,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:44:47Z",
+            "owner": "VictoriaMetrics",
+            "repo": "VictoriaMetrics",
+            "stars": 17589
+          }
+        }
+      ],
+      "title": "Observability and monitoring"
+    },
+    {
+      "description": "Alternatives to: Typeform",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FormKit",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 373308826,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T19:21:10Z",
+            "owner": "formkit",
+            "repo": "formkit",
+            "stars": 4756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OhMyForm",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 196436998,
+            "language": "TypeScript",
+            "last_commit": "2024-10-31T16:11:33Z",
+            "owner": "ohmyform",
+            "repo": "ohmyform",
+            "stars": 2892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Easy Forms",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185697198,
+            "language": "JavaScript",
+            "last_commit": "2023-11-16T19:42:04Z",
+            "owner": "super-easy-forms",
+            "repo": "super-easy-forms",
+            "stars": 160
+          }
+        }
+      ],
+      "title": "Online interactive forms"
+    },
+    {
+      "description": "Alternatives to: 1Password, Lastpass",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AuthPass",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 203756716,
+            "language": "Dart",
+            "last_commit": "2026-08-22T09:07:01Z",
+            "owner": "authpass",
+            "repo": "authpass",
+            "stars": 2767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BitWarden",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46755185,
+            "language": "C#",
+            "last_commit": "2026-08-24T14:35:36Z",
+            "owner": "bitwarden",
+            "repo": "server",
+            "stars": 19923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buttercup",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 42370929,
+            "language": "TypeScript",
+            "last_commit": "2025-03-04T09:00:43Z",
+            "owner": "buttercup",
+            "repo": "buttercup-desktop",
+            "stars": 4393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeePassXC",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52729242,
+            "language": "C++",
+            "last_commit": "2026-08-24T03:45:33Z",
+            "owner": "keepassxreboot",
+            "repo": "keepassxc",
+            "stars": 28524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Padloc",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14284411,
+            "language": "JavaScript",
+            "last_commit": "2025-03-29T04:40:17Z",
+            "owner": "padloc",
+            "repo": "padloc",
+            "stars": 2922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Passbolt",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52319036,
+            "language": "PHP",
+            "last_commit": "2026-08-21T08:02:59Z",
+            "owner": "passbolt",
+            "repo": "passbolt_api",
+            "stars": 6087
+          }
+        }
+      ],
+      "title": "Password manager"
+    },
+    {
+      "description": "Alternatives to: YouNeedaBudget (YNAB)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Actualbudget",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 486815039,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T22:46:25Z",
+            "owner": "actualbudget",
+            "repo": "actual",
+            "stars": 28349
+          }
+        }
+      ],
+      "title": "Personal Finance"
+    },
+    {
+      "description": "Alternatives to: Instagram",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pixelfed",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129829848,
+            "language": "PHP",
+            "last_commit": "2026-08-24T13:40:34Z",
+            "owner": "pixelfed",
+            "repo": "pixelfed",
+            "stars": 7071
+          }
+        }
+      ],
+      "title": "Photo sharing platform"
+    },
+    {
+      "description": "Alternatives to: Heroku, Render",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CapRover",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108221729,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T19:42:51Z",
+            "owner": "caprover",
+            "repo": "caprover",
+            "stars": 15139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coolify",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 332880689,
+            "language": "PHP",
+            "last_commit": "2026-08-24T14:28:12Z",
+            "owner": "coollabsio",
+            "repo": "coolify",
+            "stars": 60975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dokku",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10567197,
+            "language": "Shell",
+            "last_commit": "2026-08-24T13:56:29Z",
+            "owner": "dokku",
+            "repo": "dokku",
+            "stars": 32110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFaaS",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77144337,
+            "language": "Go",
+            "last_commit": "2026-07-02T09:09:13Z",
+            "owner": "openfaas",
+            "repo": "faas",
+            "stars": 26233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qovery",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 305982568,
+            "language": "Rust",
+            "last_commit": "2026-08-24T09:34:17Z",
+            "owner": "Qovery",
+            "repo": "engine",
+            "stars": 2458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Space Cloud",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169837628,
+            "language": "Go",
+            "last_commit": "2024-07-04T10:03:27Z",
+            "owner": "spacecloud-io",
+            "repo": "space-cloud",
+            "stars": 3998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tsuru",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3631697,
+            "language": "Go",
+            "last_commit": "2026-08-21T13:51:09Z",
+            "owner": "tsuru",
+            "repo": "tsuru",
+            "stars": 5307
+          }
+        }
+      ],
+      "title": "Platform as a Service (PaaS)"
+    },
+    {
+      "description": "Alternatives to: Google Slides",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeckDeckGo",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 155991763,
+            "language": "TypeScript",
+            "last_commit": "2024-02-06T16:50:51Z",
+            "owner": "deckgo",
+            "repo": "deckdeckgo",
+            "stars": 1676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reveal.js",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1861458,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T09:06:06Z",
+            "owner": "hakimel",
+            "repo": "reveal.js",
+            "stars": 72171
+          }
+        }
+      ],
+      "title": "Presentations"
+    },
+    {
+      "description": "Alternatives to: Amplitude, MixPanel",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PostHog",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 235901813,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:41:35Z",
+            "owner": "PostHog",
+            "repo": "posthog",
+            "stars": 38869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Talivia",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1315854686,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T15:28:20Z",
+            "owner": "talivia-group",
+            "repo": "talivia",
+            "stars": 1454
+          }
+        }
+      ],
+      "title": "Product Analytics"
+    },
+    {
+      "description": "Alternatives to: Canny",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Astuto",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 203002681,
+            "language": "TypeScript",
+            "last_commit": "2026-01-09T17:46:45Z",
+            "owner": "astuto",
+            "repo": "astuto",
+            "stars": 2349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClearFlask",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 392216038,
+            "language": "Java",
+            "last_commit": "2026-08-05T16:46:09Z",
+            "owner": "clearflask",
+            "repo": "clearflask",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fider",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79280946,
+            "language": "Go",
+            "last_commit": "2026-08-09T11:06:12Z",
+            "owner": "getfider",
+            "repo": "fider",
+            "stars": 4482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LogChimp",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 234876564,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T02:14:14Z",
+            "owner": "logchimp",
+            "repo": "logchimp",
+            "stars": 1119
+          }
+        }
+      ],
+      "title": "Product Feedback"
+    },
+    {
+      "description": "Alternatives to: Asana, Jira, Notion, Trello",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Focalboard",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 301793434,
+            "language": "TypeScript",
+            "last_commit": "2026-05-18T16:05:00Z",
+            "owner": "mattermost-community",
+            "repo": "focalboard",
+            "stars": 26426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kanboard",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16238673,
+            "language": "PHP",
+            "last_commit": "2026-08-23T23:03:55Z",
+            "owner": "kanboard",
+            "repo": "kanboard",
+            "stars": 9819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leantime",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29745084,
+            "language": "PHP",
+            "last_commit": "2026-08-15T04:20:40Z",
+            "owner": "Leantime",
+            "repo": "leantime",
+            "stars": 11430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenProject",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6899875,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T14:31:21Z",
+            "owner": "opf",
+            "repo": "openproject",
+            "stars": 15917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Restyaboard",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36856044,
+            "language": "JavaScript",
+            "last_commit": "2023-10-26T05:50:00Z",
+            "owner": "RestyaPlatform",
+            "repo": "board",
+            "stars": 2087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taiga",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357895136,
+            "language": "Shell",
+            "last_commit": "2025-10-13T18:08:48Z",
+            "owner": "taigaio",
+            "repo": "taiga-docker",
+            "stars": 2145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vikunja",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 159556794,
+            "language": "Go",
+            "last_commit": "2026-08-24T08:31:30Z",
+            "owner": "go-vikunja",
+            "repo": "vikunja",
+            "stars": 5150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wekan",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16089035,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T13:23:50Z",
+            "owner": "wekan",
+            "repo": "wekan",
+            "stars": 21059
+          }
+        }
+      ],
+      "title": "Project Management"
+    },
+    {
+      "description": "Alternatives to: Adobe Lightroom",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RawTherapee",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40539005,
+            "language": "C++",
+            "last_commit": "2026-08-16T07:44:45Z",
+            "owner": "RawTherapee",
+            "repo": "RawTherapee",
+            "stars": 4128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "darktable",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3791835,
+            "language": "C",
+            "last_commit": "2026-08-24T14:22:41Z",
+            "owner": "darktable-org",
+            "repo": "darktable",
+            "stars": 12982
+          }
+        }
+      ],
+      "title": "Raw Image Processing"
+    },
+    {
+      "description": "Alternatives to: Teamviewer",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apache Guacamole",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54452627,
+            "language": "C",
+            "last_commit": "2026-08-07T01:25:32Z",
+            "owner": "apache",
+            "repo": "guacamole-server",
+            "stars": 3960
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MeshCentral",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101663032,
+            "language": "HTML",
+            "last_commit": "2026-08-12T17:43:42Z",
+            "owner": "Ylianst",
+            "repo": "MeshCentral",
+            "stars": 7095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Myrtille",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53579345,
+            "language": "C#",
+            "last_commit": "2024-03-07T10:01:49Z",
+            "owner": "myrtille-rdp",
+            "repo": "myrtille",
+            "stars": 1978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remotely",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176523594,
+            "language": "C#",
+            "last_commit": "2024-12-17T15:12:02Z",
+            "owner": "immense",
+            "repo": "Remotely",
+            "stars": 5070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RustDesk",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 299354207,
+            "language": "Rust",
+            "last_commit": "2026-08-24T11:11:30Z",
+            "owner": "rustdesk",
+            "repo": "rustdesk",
+            "stars": 121682
+          }
+        }
+      ],
+      "title": "Remote connectivity"
+    },
+    {
+      "description": "Alternatives to: Hightouch, NewRelic",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Grouparoo",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 250316892,
+            "language": "JavaScript",
+            "last_commit": "2022-04-08T20:50:08Z",
+            "owner": "grouparoo",
+            "repo": "grouparoo",
+            "stars": 779
+          }
+        }
+      ],
+      "title": "Reverse ETL"
+    },
+    {
+      "description": "Alternatives to: UiPath",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RoboCorp",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 886752317,
+            "language": null,
+            "last_commit": "2024-11-18T07:42:16Z",
+            "owner": "robocorp",
+            "repo": "rcc",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Robotic Process Automation (RPA)"
+    },
+    {
+      "description": "Alternatives to: TablePlus",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Beekeeper Studio",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198484780,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:30:08Z",
+            "owner": "beekeeper-studio",
+            "repo": "beekeeper-studio",
+            "stars": 23503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dbeaver",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44662669,
+            "language": "Java",
+            "last_commit": "2026-08-24T14:41:18Z",
+            "owner": "dbeaver",
+            "repo": "dbeaver",
+            "stars": 51529
+          }
+        }
+      ],
+      "title": "SQL Editor"
+    },
+    {
+      "description": "Alternatives to: cPanel",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hestia",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156607803,
+            "language": "Shell",
+            "last_commit": "2026-08-24T14:29:59Z",
+            "owner": "hestiacp",
+            "repo": "hestiacp",
+            "stars": 4483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vesta",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1890900,
+            "language": "PHP",
+            "last_commit": "2026-08-09T08:14:41Z",
+            "owner": "outroll",
+            "repo": "vesta",
+            "stars": 3077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webmin",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 256164,
+            "language": "HTML",
+            "last_commit": "2026-08-23T22:30:32Z",
+            "owner": "webmin",
+            "repo": "webmin",
+            "stars": 6026
+          }
+        }
+      ],
+      "title": "Server control panel"
+    },
+    {
+      "description": "Alternatives to: FullStory, LogRocket",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenReplay",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 362806180,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:41:35Z",
+            "owner": "openreplay",
+            "repo": "openreplay",
+            "stars": 12560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rrweb",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151843254,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T05:55:42Z",
+            "owner": "rrweb-io",
+            "repo": "rrweb",
+            "stars": 20069
+          }
+        }
+      ],
+      "title": "Session replay software"
+    },
+    {
+      "description": "Alternatives to: Facebook",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mastodon",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52281283,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T14:29:50Z",
+            "owner": "mastodon",
+            "repo": "mastodon",
+            "stars": 50245
+          }
+        }
+      ],
+      "title": "Social media"
+    },
+    {
+      "description": "Alternatives to: Netlify, Vercel",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "StaticDeploy",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111467353,
+            "language": "TypeScript",
+            "last_commit": "2022-07-11T15:32:08Z",
+            "owner": "staticdeploy",
+            "repo": "staticdeploy",
+            "stars": 425
+          }
+        }
+      ],
+      "title": "Static web deployment"
+    },
+    {
+      "description": "Alternatives to: Twitch",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Glimesh",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 282066598,
+            "language": "Elixir",
+            "last_commit": "2023-07-11T13:05:38Z",
+            "owner": "Glimesh",
+            "repo": "glimesh.tv",
+            "stars": 492
+          }
+        }
+      ],
+      "title": "Streaming"
+    },
+    {
+      "description": "Alternatives to: Tettra",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BookStack",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41589337,
+            "language": "PHP",
+            "last_commit": "2026-08-24T12:43:55Z",
+            "owner": "BookStackApp",
+            "repo": "BookStack",
+            "stars": 19002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docuwiki",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 456930,
+            "language": "PHP",
+            "last_commit": "2026-08-24T07:29:27Z",
+            "owner": "dokuwiki",
+            "repo": "dokuwiki",
+            "stars": 4707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Outline",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59435364,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:21:39Z",
+            "owner": "outline",
+            "repo": "outline",
+            "stars": 40309
+          }
+        }
+      ],
+      "title": "Team Wiki"
+    },
+    {
+      "description": "Alternatives to: Kdb+",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "InfluxDB",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13124802,
+            "language": "Rust",
+            "last_commit": "2026-08-20T19:31:27Z",
+            "owner": "influxdata",
+            "repo": "influxdb",
+            "stars": 31710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuestDB",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19257422,
+            "language": "Java",
+            "last_commit": "2026-08-24T14:29:07Z",
+            "owner": "questdb",
+            "repo": "questdb",
+            "stars": 17274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TDengine",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196353673,
+            "language": "C",
+            "last_commit": "2026-08-24T06:27:16Z",
+            "owner": "taosdata",
+            "repo": "TDengine",
+            "stars": 25081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TimescaleDB",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84240850,
+            "language": "C",
+            "last_commit": "2026-08-24T13:04:38Z",
+            "owner": "timescale",
+            "repo": "timescaledb",
+            "stars": 23404
+          }
+        }
+      ],
+      "title": "Timeseries database"
+    },
+    {
+      "description": "Alternatives to: OpenVPN, OpenVPN Access Server, Tailscale",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Firezone",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257787813,
+            "language": "Elixir",
+            "last_commit": "2026-08-24T14:26:32Z",
+            "owner": "firezone",
+            "repo": "firezone",
+            "stars": 9039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gravitl",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 351486934,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:00:27Z",
+            "owner": "gravitl",
+            "repo": "netmaker",
+            "stars": 11761
+          }
+        }
+      ],
+      "title": "VPN Server"
+    },
+    {
+      "description": "Alternatives to: Algolia, Google Vertex AI",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Qdrant",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268163609,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:36:00Z",
+            "owner": "qdrant",
+            "repo": "qdrant",
+            "stars": 34157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeMI's Weaviate",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55072677,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:18:38Z",
+            "owner": "weaviate",
+            "repo": "weaviate",
+            "stars": 16749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zilliz's Milvus",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208728772,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:35:22Z",
+            "owner": "milvus-io",
+            "repo": "milvus",
+            "stars": 45769
+          }
+        }
+      ],
+      "title": "Vector search engine"
+    },
+    {
+      "description": "Alternatives to: Agora, Twilio, Zoom",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BigBlueButton",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 684382,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T14:21:21Z",
+            "owner": "bigbluebutton",
+            "repo": "bigbluebutton",
+            "stars": 9200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jitsi",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15225670,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:34:49Z",
+            "owner": "jitsi",
+            "repo": "jitsi-meet",
+            "stars": 29797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiveKit",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 299832860,
+            "language": "Go",
+            "last_commit": "2026-08-24T05:28:09Z",
+            "owner": "livekit",
+            "repo": "livekit",
+            "stars": 20502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenVidu",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70491053,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T10:09:01Z",
+            "owner": "OpenVidu",
+            "repo": "openvidu",
+            "stars": 2126
+          }
+        }
+      ],
+      "title": "Video Conferencing"
+    },
+    {
+      "description": "Alternatives to: YouTube",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NodeTube",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129958568,
+            "language": "JavaScript",
+            "last_commit": "2023-01-24T11:03:09Z",
+            "owner": "mayeaux",
+            "repo": "nodetube",
+            "stars": 2364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peertube",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45213667,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:23:08Z",
+            "owner": "Chocobozzz",
+            "repo": "PeerTube",
+            "stars": 15276
+          }
+        }
+      ],
+      "title": "Video platform"
+    },
+    {
+      "description": "Alternatives to: Google Analytics",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ackee",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18831920,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T10:30:14Z",
+            "owner": "electerious",
+            "repo": "Ackee",
+            "stars": 4692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Countly",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4473517,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T01:23:05Z",
+            "owner": "Countly",
+            "repo": "countly-server",
+            "stars": 5891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fathom",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74236755,
+            "language": "Go",
+            "last_commit": "2026-03-18T09:11:04Z",
+            "owner": "usefathom",
+            "repo": "fathom",
+            "stars": 8015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoatCounter",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188968112,
+            "language": "Go",
+            "last_commit": "2026-08-21T12:57:56Z",
+            "owner": "arp242",
+            "repo": "goatcounter",
+            "stars": 5905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matomo",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1548202,
+            "language": "PHP",
+            "last_commit": "2026-08-24T14:40:30Z",
+            "owner": "matomo-org",
+            "repo": "matomo",
+            "stars": 21802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Web Analytics",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3891123,
+            "language": "PHP",
+            "last_commit": "2026-08-24T13:13:25Z",
+            "owner": "Open-Web-Analytics",
+            "repo": "Open-Web-Analytics",
+            "stars": 2685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plausible",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160427405,
+            "language": "Elixir",
+            "last_commit": "2026-08-24T14:02:53Z",
+            "owner": "plausible",
+            "repo": "analytics",
+            "stars": 28731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scale8",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 404607321,
+            "language": "TypeScript",
+            "last_commit": "2022-08-17T14:29:14Z",
+            "owner": "scale8",
+            "repo": "scale8-tag-manager-and-analytics",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Umami",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280363952,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T18:26:22Z",
+            "owner": "umami-software",
+            "repo": "umami",
+            "stars": 38342
+          }
+        }
+      ],
+      "title": "Website analytics"
+    },
+    {
+      "description": "Alternatives to: Integromat, Zapier",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ActiveWorkflow",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185592724,
+            "language": "Ruby",
+            "last_commit": "2023-04-03T09:13:22Z",
+            "owner": "automaticmode",
+            "repo": "active_workflow",
+            "stars": 865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beehive",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21141781,
+            "language": "Go",
+            "last_commit": "2023-02-25T01:54:22Z",
+            "owner": "muesli",
+            "repo": "beehive",
+            "stars": 6488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flogo",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62978868,
+            "language": "CSS",
+            "last_commit": "2024-04-24T18:42:04Z",
+            "owner": "TIBCOSoftware",
+            "repo": "flogo",
+            "stars": 2492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Huginn",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8681349,
+            "language": "Ruby",
+            "last_commit": "2026-08-22T02:42:21Z",
+            "owner": "huginn",
+            "repo": "huginn",
+            "stars": 49848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "N8N",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193215554,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:41:17Z",
+            "owner": "n8n-io",
+            "repo": "n8n",
+            "stars": 202265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node-RED",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12618379,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T12:33:31Z",
+            "owner": "node-red",
+            "repo": "node-red",
+            "stars": 23572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pipedream",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 235468657,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T14:37:39Z",
+            "owner": "PipedreamHQ",
+            "repo": "pipedream",
+            "stars": 11643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Temporal",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215654064,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:33:20Z",
+            "owner": "temporalio",
+            "repo": "temporal",
+            "stars": 22496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windmill",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 488804911,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:41:14Z",
+            "owner": "windmill-labs",
+            "repo": "windmill",
+            "stars": 17657
+          }
+        }
+      ],
+      "title": "Workflow automation"
+    },
+    {
+      "description": "Alternatives to: Medium",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sigle",
+          "description": "Yes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168599003,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T15:42:18Z",
+            "owner": "sigle",
+            "repo": "sigle",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WriteFreely",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86956808,
+            "language": "Go",
+            "last_commit": "2026-08-20T22:23:05Z",
+            "owner": "writefreely",
+            "repo": "writefreely",
+            "stars": 5226
+          }
+        }
+      ],
+      "title": "Writing platform"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T00:25:29.198Z",
+    "last_updated": "2026-08-24T14:41:34.214Z",
     "original_repository": "SimoMay/find-oss",
     "original_repository_id": 474127208,
     "original_repository_sha": "428a77713cb7f3bcce0c5b06e5be74a676c4a833",
